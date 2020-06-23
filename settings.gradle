@@ -1,0 +1,2 @@
+rootProject.name='MOB201_Slide6_GoogleMap'
+include ':app'
